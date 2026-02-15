@@ -231,16 +231,22 @@ xcodebuild -workspace App.xcworkspace -scheme App -configuration Debug
 
 #### Bill of Materials (BOM)
 
-| Component | Quantity | Specifications | Price | Link/Source |
-|-----------|----------|----------------|-------|-------------|
-| Arduino Uno | 1 | ATmega328P, 16MHz | ₹450 | [Link] |
-| LED | 5 | Red, 5mm, 20mA | ₹5 each | [Link] |
-| Resistor | 5 | 220Ω, 1/4W | ₹1 each | [Link] |
-| Breadboard | 1 | 830 points | ₹100 | [Link] |
-| Jumper Wires | 20 | Male-to-Male | ₹50 | [Link] |
-| [Add more...] | | | | |
+Component / Tool	Quantity	Specifications / Version	Price	Link/Source
+Python	1	Version 3.11	Free	Python.org
 
-**Total Estimated Cost:** ₹[Amount]
+Flask	1	Version 2.x	Free	Flask Docs
+
+HTML / CSS / JS	-	Standard web languages	Free	W3Schools
+
+VS Code	1	IDE for coding	Free	VS Code
+
+Bootstrap (optional)	1	v5.x for styling	Free	Bootstrap
+
+GitHub	1	For version control	Free	GitHub
+
+Total Estimated Cost: ₹0 (All free/open-source tools)
+
+**Total Estimated Cost:** ₹[0]
 
 #### Assembly Instructions
 
